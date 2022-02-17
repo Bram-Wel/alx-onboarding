@@ -1,0 +1,25 @@
+0-sum_squares.txt 
+
+This program computes the sum of squares for user input data.
+
+{
+In the main function
+
+    Create an ArrayList<Integer>
+    Initialize a scanner object.
+    function println("Prompt User Input.")
+    
+    Create stop variable 0; 
+    function while(scanner.hasNextInt()){
+            Add user input to ArrayList & Stop when user input is 0.
+    }
+
+    Create a new_ArrayList<Integer>
+    function for(Integer digit: old_ArrayList){
+        Square values in old array list and add them to new arraylist.
+    }
+ function system.out.println(new_ArrayList){
+     Prints out the values in new arraylist on console terminal
+ }
+
+}
